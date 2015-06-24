@@ -12,4 +12,4 @@ Coming soon!!!!!
 
 GitHub Localization is coming!!!!!!
 
-Let's start!!
+Let's start!!!
