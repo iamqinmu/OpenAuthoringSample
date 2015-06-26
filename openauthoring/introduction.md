@@ -14,4 +14,4 @@ GitHub Localization is coming!!!!!!
 
 Let's start!
 
-Localization configure is ready!
+Localization configure is ready!!
