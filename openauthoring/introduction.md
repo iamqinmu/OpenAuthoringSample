@@ -12,4 +12,4 @@ Coming soon!!!!!
 
 GitHub Localization is coming!
 
-Structure Sync is ready!
+Structure Sync is ready!!
