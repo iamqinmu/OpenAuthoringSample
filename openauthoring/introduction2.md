@@ -18,4 +18,4 @@ Localization configure is ready!!
 
 I am Qin Mu 2!
 
-Move to HowTo folder!
+Move to HowTo folder!！
