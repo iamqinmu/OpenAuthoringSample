@@ -11,3 +11,5 @@ Open Authoring is a documentation work-flow which enables content owners, includ
 Coming soon!!!!!
 
 GitHub Localization is coming!
+
+Structure Sync is ready!
