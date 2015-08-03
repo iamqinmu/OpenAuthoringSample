@@ -1,6 +1,7 @@
 {
     "handoff_locales": [
-        "zh-CN"
+        "zh-CN",
+        "ja-JP"
     ],
     "handoff_branch":  "test"
 }
