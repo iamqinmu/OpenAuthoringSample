@@ -18,4 +18,4 @@ Localization configure is ready!!
 
 I am Qin Mu!
 
-Test Structure Syncing!!
+Test Structure Syncing!!!!
