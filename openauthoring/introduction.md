@@ -17,3 +17,5 @@ Let's start!
 Localization configure is ready!!
 
 I am Qin Mu!
+
+Test Structure Syncing!
