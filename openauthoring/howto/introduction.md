@@ -16,6 +16,6 @@ Let's start!
 
 Localization configure is ready!!
 
-I am Qin Mu 2!
+I am Qin Mu!
 
-Move to HowTo folder!！
+Test Structure Syncing!!
